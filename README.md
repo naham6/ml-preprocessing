@@ -4,3 +4,4 @@
 - onehot encoding
 - simpleimputer
 - EDA
+- plots
