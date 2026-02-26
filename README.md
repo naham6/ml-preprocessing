@@ -3,4 +3,4 @@
 - label encoding
 - onehot encoding
 - simpleimputer
-- 
+- EDA
